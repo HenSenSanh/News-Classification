@@ -5,7 +5,7 @@ from datetime import datetime
 from tqdm.auto import tqdm
 
 # ==================== CẤU HÌNH ====================
-IN_JSONL  = Path("data/news_2025.jsonl.gz")
+IN_JSONL  = Path("data/news_giaothog_2025.jsonl.gz")
 OUT_JSONL = Path("data/traffic_2025.jsonl")
 LOG_BAD   = Path("data/filter_bad_lines.log")
 
