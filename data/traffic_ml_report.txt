@@ -1,8 +1,0 @@
-              precision    recall  f1-score   support
-
-NEG (policy)      0.926     0.954     0.940       196
- POS (event)      0.958     0.932     0.944       219
-
-    accuracy                          0.942       415
-   macro avg      0.942     0.943     0.942       415
-weighted avg      0.943     0.942     0.942       415
