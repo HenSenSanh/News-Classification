@@ -4,4 +4,4 @@ import pandas as pd
 df = pd.read_json(r"D:/News-Classification/NLP/data_TL_check.jsonl", lines=True)
 
 
-print(df['content'])
+print(df['content'][110])
